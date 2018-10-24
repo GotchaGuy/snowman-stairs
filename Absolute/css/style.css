@@ -7,8 +7,35 @@ body {
 	width: 600px;
 	border: 1px solid black;
 	margin: 0 auto;
+	position: relative;
 }
 
 .box .snowman {
 	font-size: 40px;
+}
+
+.stairs {
+	background-color: black;
+	height: 4px;
+	width: 15px;
+	position: absolute;
+	top: 45px;
+	left: 10px;
+}
+
+.stairss {
+	background-color: black;
+	height: 15px;
+	width: 4px;
+	position: absolute;
+	top: 49px;
+	left: 25px;	
+}
+.stairsss {
+	background-color: black;
+	height: 4px;
+	width: 15px;
+	position: absolute;
+	top: 64px;
+	left: 29px;	
 }
