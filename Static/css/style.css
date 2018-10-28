@@ -12,3 +12,33 @@ body {
 .box .snowman {
 	font-size: 40px;
 }
+
+div {
+	border-right: 3px solid black;
+	border-top: 3px solid black;
+	height: 40px;
+	width: 40px;
+}
+.none {
+	border: none;
+}
+
+.flo {
+	position: static;
+}
+.rida {
+	position: static;
+	margin-left: 40px;
+}
+.thereyago {
+	position: static;
+	margin-left: 80px;
+}
+.joke {
+	position: static;
+	margin-left: 120px;
+}
+.executed {
+	position: static;
+	margin-left: 160px;
+}

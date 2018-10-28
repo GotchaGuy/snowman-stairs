@@ -10,18 +10,46 @@ div {
 }
 .stairs {
 	width: 50px;
-	height: 5px;
-	background-color: blue;
+	height: 50px;
+	border-top: 5px solid blue;
+	border-right: 5px solid blue;
 	position: fixed;
 	top: 105px;
 	left: 20px;
 }
-.stairss {
-	width: 5px;
-	height: 25px;
-	background-color: blue;
+.doggos {
+	width: 50px;
+	height: 50px;
+	border-top: 5px solid blue;
+	border-right: 5px solid blue;
 	position: fixed;
-	top: 110px;
-	left: 70px;
-	border-bottom: 5px;	
+	top: 155px;
+	left: 70px;	
+}
+.bella {
+	width: 50px;
+	height: 50px;
+	border-top: 5px solid blue;
+	border-right: 5px solid blue;
+	position: fixed;
+	top: 205px;
+	left: 120px;	
+}
+.runi {
+	width: 50px;
+	height: 50px;
+	border-top: 5px solid blue;
+	border-right: 5px solid blue;
+	position: fixed;
+	top: 255px;
+	left: 170px;	
+}
+.berry {
+	width: 50px;
+	height: 50px;
+	border-top: 5px solid blue;
+	border-right: 5px solid blue;
+	position: fixed;
+	top: 305px;
+	left: 220px;	
 }

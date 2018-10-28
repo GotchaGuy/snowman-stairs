@@ -12,3 +12,37 @@ body {
 .box .snowman {
 	font-size: 40px;
 }
+div {
+	width: 20px;
+	height: 20px;
+	border-right: 3px solid green;
+	border-top: 3px solid green;
+}
+.normal {
+	border: none;
+}
+.greg {
+	position: relative;
+	top: 21px;
+	left: 11px;
+}
+.kevin {
+	position: relative;
+	top: 21px;
+	left: 31px;
+}
+.bamboo {
+	position: relative;
+	top: 21px;
+	left: 51px;
+}
+.beer {
+	position: relative;
+	top: 21px;
+	left: 71px;
+}
+.gonnatry {
+	position: relative;
+	top: 21px;
+	left: 91px;
+}

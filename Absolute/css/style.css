@@ -39,3 +39,49 @@ body {
 	top: 64px;
 	left: 29px;	
 }
+/*figured out the border thing you were talking about*/
+.morestairs {
+	height: 15px;
+	width: 15px;
+	position: absolute;
+	top: 64px;
+	left: 41px;	
+	border-bottom: 4px solid black;
+	border-left: 4px solid black;
+}
+.somanystairs {
+	height: 15px;
+	width: 15px;
+	position: absolute;
+	top: 79px;
+	left: 56px;	
+	border-bottom: 4px solid black;
+	border-left: 4px solid black;
+}
+.somanystairss {
+	height: 15px;
+	width: 15px;
+	position: absolute;
+	top: 94px;
+	left: 71px;	
+	border-bottom: 4px solid black;
+	border-left: 4px solid black;
+}
+.allofem {
+	height: 15px;
+	width: 15px;
+	position: absolute;
+	top: 109px;
+	left: 86px;	
+	border-bottom: 4px solid black;
+	border-left: 4px solid black;
+}
+.bonusstairs {
+	height: 15px;
+	width: 15px;
+	position: absolute;
+	top: 124px;
+	left: 101px;	
+	border-bottom: 4px solid black;
+	border-left: 4px solid black;
+}
